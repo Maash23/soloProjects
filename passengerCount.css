@@ -1,0 +1,58 @@
+body{
+    background-image: url(amariei-mihai-EiwQ2CykJas-unsplash.jpg);
+    background-size: fixed;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    height: 100vh;
+    color: aliceblue;
+}
+
+#count-el {
+    font-size: 2em;
+}
+
+#save-el {
+    margin-top: 15px;
+}
+
+#increment-btn { 
+    background-color: rgb(42, 185, 42);
+    color: aliceblue;
+    font-size: large;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid rgb(42, 185, 42);
+    border-radius: 15px;
+    width: 15em;
+}
+
+#save-btn {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-size: large;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid cornflowerblue;
+    border-radius: 15px;
+    width: 15em;
+}
+
+#decrement-btn {
+    background-color:brown;
+    color: aliceblue;
+    font-size: large;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid brown;
+    border-radius: 15px;
+    width: 15em;
+}
+
+.container {
+    background-color: transparent;
+    border: 3px solid aliceblue;
+    border-radius: 10px;
+    max-width: 80%;
+    margin: auto;
+}
